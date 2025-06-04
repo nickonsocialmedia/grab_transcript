@@ -1,8 +1,10 @@
 # grab_transcript
 
+sudo apt install python3-pip
+
 cd ~/grab_transcript  # Assuming grab_transcript is in the home dir
 
-chmod +x run.sh       # Unless you've already made it executable
+chmod +x run.sh       # Unless it is already executable
 
 ./run.sh              # nothing further needed
 
